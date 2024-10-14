@@ -12,6 +12,8 @@ let data = [
 		address: '123 Main St',
 		city: 'New York',
 		phone: '555-1234',
+		mobile phone : 'SAMSUNG',
+		zodiac : 'gemini',
 	},
 	{
 		id: 2,
@@ -20,6 +22,8 @@ let data = [
 		address: '456 Oak Ave',
 		city: 'Los Angeles',
 		phone: '555-5678',
+		mobile phone : 'VIVO',
+		zodiac : 'aries',
 	},
 	{
 		id: 3,
@@ -28,6 +32,8 @@ let data = [
 		address: '789 Pine Rd',
 		city: 'Chicago',
 		phone: '555-8765',
+		mobile phone : 'IPHONE',
+		zodiac : 'taurus',
 	},
 	{
 		id: 4,
@@ -36,6 +42,8 @@ let data = [
 		address: '321 Cedar St',
 		city: 'New York',
 		phone: '555-4321',
+		mobile phone : 'OPPO',
+		zodiac : 'capricon',
 	},
 ];
 
